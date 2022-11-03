@@ -20,7 +20,7 @@ Retorna la coordena horizontal del evento, relativo al documento completo.
 pageX =event.pageX;
 ```
 
-`pageX` es un valor entero expresado en pixels para la corrdenada X del puntero del ratón, relativo al documento entero, cuando se produjo el evento. Esta propiedad toma en cuenta la barra de desplazamiento horizontal de la página.
+`pageX` es un valor entero expresado en pixels para la coordenada X del puntero del ratón, relativo al documento entero, cuando se produjo el evento. Esta propiedad toma en cuenta la barra de desplazamiento horizontal de la página.
 
 ### Ejemplo
 
